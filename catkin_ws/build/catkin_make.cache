@@ -1,0 +1,2 @@
+learning_communication:vrpn_client_ros
+-DCATKIN_DEVEL_PREFIX=/home/cancan/vrpn/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cancan/vrpn/catkin_ws/install -G Unix Makefiles
